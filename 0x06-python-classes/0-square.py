@@ -3,7 +3,8 @@
 This module contains a class that defines a square.
 """
 
-class Square():
-    """Defines a square."""
+Square = __import__('0-square').Square
 
-    pass
+my_square = Square()
+print(type(my_square))
+print(my_square.__dict__)
