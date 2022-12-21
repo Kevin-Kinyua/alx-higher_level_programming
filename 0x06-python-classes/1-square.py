@@ -4,11 +4,12 @@ This module contains a class that defines a square and init method that
 sets its size.
 """
 
-class Square():
-    """Defines a square."""
+class Square:
+    """Represents a square"""
+
     def __init__(self, size):
-    """Sets the necessary attributes for the square object.
-    Args:
-        size (int): the size of one edge of the square.
+    """Initializing this square class
+    Args: size - represnets the size of the square defined
     """
+
     self.__size = size
