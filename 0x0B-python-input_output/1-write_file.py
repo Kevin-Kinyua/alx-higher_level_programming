@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This module defines a file-writing function."""
+"""THis module defines a file-writing function."""
 
 
 def write_file(filename="", text=""):
