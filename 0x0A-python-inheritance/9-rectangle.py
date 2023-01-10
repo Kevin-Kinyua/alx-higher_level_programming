@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """Rectangle module.
-Contains a class Rectangle that inherits from
+This contains a class Rectangle that inherits from
 BaseGeometry and some methods.
 """
 BaseGeometry = __import__('7-base_geometry').BaseGeometry
