@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """BaseGeometry module.
-THis contains a class BaseGeometry, and some methods.
+This contains a class BaseGeometry, and some methods.
 """
 
 
