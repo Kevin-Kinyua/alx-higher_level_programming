@@ -1,4 +1,4 @@
-The ``1-my_list`` module
+The ``1-my_list.py`` module
 ======================
 
 Using ``MyList``
